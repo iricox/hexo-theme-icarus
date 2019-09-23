@@ -23,17 +23,22 @@ open_graph:
 navbar:
     # Navigation bar menu links
     menu:
-        Home: /
-        Archives: /archives/
-        Categories: /categories/
-        Tags: /tags/
-        About: /about/
+#        Home: /
+#        Archives: /archives/
+#        Categories: /categories/
+#        Tags: /tags/
+#        About: /about/
+        首页: /
+        分类: /categories/
+        归档: /archives/
+        标签: /tags/
+        关于: /about/
     # Navigation bar links to be shown on the right
-    links:
-        AlphaLxy GitHub:
-            icon: fab fa-github
-            #url: 'https://github.com/iricox'
-            url: '/'
+#    links:
+#        AlphaLxy GitHub:
+#            icon: fab fa-github
+#            #url: 'https://github.com/iricox'
+#            url: '/'
 # Footer section link settings
 footer:
     # Links to be shown on the right of the footer section
@@ -45,10 +50,10 @@ footer:
               - fab fa-creative-commons-nc
               - fab fa-creative-commons-sa
             url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
-        AlphaLxy GitHub:
-            icon: fab fa-github
-            #url: 'https://github.com/iricox'
-            url: '/'
+#        AlphaLxy GitHub:
+#            icon: fab fa-github
+#            #url: 'https://github.com/iricox'
+#            url: '/'
 # Article display settings
 article:
     # Code highlight theme
